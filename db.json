@@ -1,12 +1,11 @@
 {
-  "profile": [
+  "posts": [
     {
       "id": 1,
-      "name": "saket"
-    },
-        {
-      "id": 2,
-      "name": "sahil"
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
